@@ -6,7 +6,7 @@
   "builds": [
     {
       "src": "index.js",
-      "use": "@vercel/node@4"
+      "use": "@vercel/node@4.0"
     }
   ],
   "rewrites": [
